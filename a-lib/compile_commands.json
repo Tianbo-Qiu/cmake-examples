@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/cpp/cmake-examples/a-lib/adder  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/hello.dir/main.cpp.o -c /Users/tianboqiu/c/cpp/cmake-examples/a-lib/main.cpp",
+  "file": "/Users/tianboqiu/c/cpp/cmake-examples/a-lib/main.cpp"
+},
+{
+  "directory": "/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/adder",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/adder.dir/add.cpp.o -c /Users/tianboqiu/c/cpp/cmake-examples/a-lib/adder/add.cpp",
+  "file": "/Users/tianboqiu/c/cpp/cmake-examples/a-lib/adder/add.cpp"
+}
+]

@@ -1,0 +1,6 @@
+/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/CMakeFiles/hello.dir
+/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/CMakeFiles/edit_cache.dir
+/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/CMakeFiles/rebuild_cache.dir
+/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/adder/CMakeFiles/adder.dir
+/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/adder/CMakeFiles/edit_cache.dir
+/Users/tianboqiu/c/cpp/cmake-examples/a-lib/build/adder/CMakeFiles/rebuild_cache.dir
