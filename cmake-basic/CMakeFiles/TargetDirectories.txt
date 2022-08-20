@@ -1,0 +1,3 @@
+/Users/tianboqiu/c/cpp/cmake-examples/cmake-basic/CMakeFiles/example.dir
+/Users/tianboqiu/c/cpp/cmake-examples/cmake-basic/CMakeFiles/edit_cache.dir
+/Users/tianboqiu/c/cpp/cmake-examples/cmake-basic/CMakeFiles/rebuild_cache.dir
