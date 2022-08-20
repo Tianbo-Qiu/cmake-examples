@@ -15,4 +15,7 @@ git submodule add https://github.com/glfw/glfw.git external/glfw
 cmake -S. -Bbuild
 make -Cbuild
 ./build/hello
+
+# manual init submodules
+# git submodule update --init --recursive
 ```
