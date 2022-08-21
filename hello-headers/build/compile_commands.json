@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/cpp/cmake-examples/hello-headers/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/cpp/cmake-examples/hello-headers/include  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/hello_headers.dir/src/adder.cpp.o -c /Users/tianboqiu/c/cpp/cmake-examples/hello-headers/src/adder.cpp",
+  "file": "/Users/tianboqiu/c/cpp/cmake-examples/hello-headers/src/adder.cpp"
+},
+{
+  "directory": "/Users/tianboqiu/c/cpp/cmake-examples/hello-headers/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/cpp/cmake-examples/hello-headers/include  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/hello_headers.dir/src/main.cpp.o -c /Users/tianboqiu/c/cpp/cmake-examples/hello-headers/src/main.cpp",
+  "file": "/Users/tianboqiu/c/cpp/cmake-examples/hello-headers/src/main.cpp"
+}
+]
