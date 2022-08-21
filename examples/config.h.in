@@ -1,0 +1,4 @@
+// projectName_VERSIION_MAJOR/MINOR, case matters
+#define Examples_VERSION_MAJOR @Examples_VERSION_MAJOR@
+#define Examples_VERSION_MINOR @Examples_VERSION_MINOR@
+#cmakedefine USE_MYMATH

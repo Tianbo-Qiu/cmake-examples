@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/cpp/cmake-examples/examples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/cpp/cmake-examples/examples/build  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++17 -o CMakeFiles/Examples.dir/main.cpp.o -c /Users/tianboqiu/c/cpp/cmake-examples/examples/main.cpp",
+  "file": "/Users/tianboqiu/c/cpp/cmake-examples/examples/main.cpp"
+}
+]
